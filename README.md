@@ -7,4 +7,4 @@ Página de un estudiante de la asignatura de [Imagen Escrita](https://wiki.ead.p
 Ver:
 * [Pagina de este curso en Casiopea](https://wiki.ead.pucv.cl/Imagen_Escrita_2019)
 * [Página de Trabajos](https://hspencer.github.io/IE-2019/)
-* [Página de mis Trabajos]()
+* [Página de mis Trabajos](https://agoldrine.github.io/Portafolio/)
