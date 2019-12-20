@@ -17,7 +17,10 @@ function setup() {
   }
 
 function draw() {
-  }
+  fill('pink');
+  textSize(32);
+  text('¡Haz Click!',150,100);
+}
 
 function mousePressed() {
   stamp(mouseX,mouseY);
